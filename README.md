@@ -1,5 +1,5 @@
 # Projeto FP Sellections
-Um projeto demonstrativo para uso comercial, podento ser ultilizado em bares ou cafeterias, ultilizando <strong>HTML</strong> e <strong>CSS</strong>, uma pagina simples mas visualmente interessante, e funcinal, foi simplismente incrivelmente construtivo para minha vida profissional com o auxilio do professor<a href="https://www.instagram.com/rodolfomorii/" target="_blank">Rodolfo Mori</a> foi um grande desafio, mas á experiencia foi incrivel!
+Um projeto demonstrativo para uso comercial, podendo ser utilizado em bares ou cafeterias, utilizando HTML e CSS, uma pagina simples mas visualmente interessante, e funcional, foi simplismente incrivelmente construtivo para minha vida profissional com o auxilio do professor<a href="https://www.instagram.com/rodolfomorii/" target="_blank">Rodolfo Mori</a> foi um grande desafio, mas á experiencia foi incrivel!
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
