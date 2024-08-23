@@ -3,7 +3,7 @@ Um projeto demonstrativo para uso comercial, podento ser ultilizado em bares ou 
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
-[<img src="./src/imagens/imagens readme/Animação tela cafeteria.gifl">](https://slv-levi.github.io/cafeteria/)
+[<img src="./src/imagens/imagens readme/Animação tela cafeteria.gif">](https://slv-levi.github.io/cafeteria/)
 <a href="https://slv-levi.github.io/cafeteria/" target="_blank">link para a página.</a>
 
 ## Tecnologias utilizadas
