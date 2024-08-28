@@ -10,7 +10,7 @@ Um projeto demonstrativo para uso comercial, podento ser ultilizado em bares ou 
 - HTML;
 - CSS;
 
-<img src="./src/imagens/imagens readme/html e css.png" alt="png das linguagens html e css>
+<img src="./src/imagens/imagens readme/html-e-css.png" alt="png das linguagens html e css">
 
 ## Contatos
 <div> 
