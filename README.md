@@ -1,7 +1,7 @@
 # Projeto Demo Cafeteria
 Um projeto demonstrativo para uso comercial, podendo ser utilizado em bares ou cafeterias, utilizando HTML e CSS, uma pagina simples mas visualmente interessante, e funcional, foi simplismente incrivelmente construtivo para minha vida profissional com o auxilio do professor<a href="https://www.instagram.com/rodolfomorii/" target="_blank">Rodolfo Mori</a> foi um grande desafio, mas á experiencia foi incrivel!
 
-## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
+## Podemos ver atraves dessa aprensentação como ele se comporta:
 
 [<img src="./src/imagens/imagens readme/Animação tela cafeteria.gif">](https://slv-levi.github.io/cafeteria/)
 <a href="https://slv-levi.github.io/cafeteria/" target="_blank">link para a página.</a>
